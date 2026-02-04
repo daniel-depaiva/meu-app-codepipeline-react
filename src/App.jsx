@@ -9,7 +9,7 @@ function App() {
         Curso Completo de Codepipeline
       </h1>
       <p className="subtitle">
-        Criado com React e Vite de forma super simples versão 2!
+        Criado com React e Vite de forma super simples versão 1.1!
       </p>
     </div>
   );
